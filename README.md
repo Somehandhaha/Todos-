@@ -1,8 +1,5 @@
 Todos备忘录项目详解
 
-vue.js   本人 刚刚发布 · 编辑
-赞  |   0收藏  |  0
-0 次浏览
 今天我们要做的是个备忘录项目模仿一下Todos这是Todos的官方网址http://todomvc.com/examples/v...
 
 操作流程
